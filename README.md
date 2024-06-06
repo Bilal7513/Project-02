@@ -1,2 +1,2 @@
 # Project-02
- Seat Selection at Movie Theatre
+ Seat Selection at Movie Theater
